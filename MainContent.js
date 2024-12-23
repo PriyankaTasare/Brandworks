@@ -10,6 +10,7 @@ const MainContent = () => {
       setContent(data);
     };
     getContent();
+    getContent();
   }, []);
 
   return (
